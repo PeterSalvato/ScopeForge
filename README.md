@@ -147,3 +147,10 @@ MIT or equivalent, to be determined.
 * [Validator (legacy precursor)](#)
 * [Model Context Protocol](#)
 
+---
+---
+
+© 2025 Peter Salvato.  
+Licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/).  
+Attribution required. No commercial use or redistribution of modified versions permitted.  
+See the [LICENSE](./LICENSE) file for details.
