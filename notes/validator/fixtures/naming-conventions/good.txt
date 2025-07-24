@@ -1,0 +1,3 @@
+layout.static.page.php
+about/
+savepoint-validator/
