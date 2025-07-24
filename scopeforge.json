@@ -1,0 +1,26 @@
+{
+    "project": "YourProjectName",
+    "system": "You are an assistant supporting development of an enterprise software project. Prioritize alignment with architectural patterns and developer-written constraints.",
+    "user": "Use the provided context to generate accurate, implementation-ready responses.",
+    "notes_path": "notes",
+    "index_file": "index.md",
+    "config_file": "notes.config.json",
+    "authors": [
+        "Jason",
+        "Bryan",
+        "Peter",
+        "Rick",
+        "Fioger"
+    ],
+    "types": [
+        "BackendIntegration",
+        "FrontendLogic",
+        "FrontendStyle",
+        "UXPattern",
+        "SQLLogic",
+        "SQLConversion",
+        "QAChecklist",
+        "CrossCutting",
+        "MCPMeta"
+    ]
+}

@@ -1,1 +1,3 @@
-# Required Python packages
+typer[all]
+rich
+inquirer

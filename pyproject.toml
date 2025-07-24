@@ -1,0 +1,15 @@
+[project]
+name = "scopeforge"
+version = "0.1.0"
+description = "CLI tool to compile atomic notes into structured LLM prompts."
+readme = "README.md"
+license = { file = "LICENSE.md" }
+authors = [ { name="Your Name", email="you@example.com" } ]
+dependencies = [
+    "typer[all]",
+    "rich",
+    "inquirer"
+]
+
+[project.scripts]
+scopeforge = "scopeforge.main:app"
