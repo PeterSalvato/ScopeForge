@@ -1,1 +1,0 @@
-Hi! I'm your AI buddy. Let's look at some code! :) // ❌ not a validator instruction
